@@ -47,7 +47,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3011651",
+        "id": "3011652",
         "country": "Austria",
         "total_population": "653000",
         "military_deaths": "4440000",
@@ -61,6 +61,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [14.550072, 47.516231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011653",
+        "country": "Belgium",
+        "total_population": "8387000",
+        "military_deaths": "12000",
+        "civilian_deaths": "76000",
+        "total_deaths": "88000",
+        "percentage_of_death": "1.05",
+        "longitude": 4.469936,
+        "latitude": 50.503887,
+        "oid": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.469936, 50.503887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011654",
+        "country": "Brazil",
+        "total_population": "40289000",
+        "military_deaths": "1000",
+        "civilian_deaths": "1000",
+        "total_deaths": "2000",
+        "percentage_of_death": "0.00",
+        "longitude": -51.92528,
+        "latitude": -14.235004,
+        "oid": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.92528, -14.235004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011655",
+        "country": "Bulgaria",
+        "total_population": "6458000",
+        "military_deaths": "18500",
+        "civilian_deaths": "3000",
+        "total_deaths": "21500",
+        "percentage_of_death": "0.33",
+        "longitude": 25.48583,
+        "latitude": 42.733883,
+        "oid": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.48583, 42.733883]
       }
     }
   ]
