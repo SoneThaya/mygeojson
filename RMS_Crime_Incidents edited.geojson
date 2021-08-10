@@ -16,13 +16,13 @@
         "civilian_deaths": "0",
         "total_deaths": "30000",
         "percentage_of_death": "2.80",
-        "longitude": 41.1533,
-        "latitude": 20.1683,
+        "longitude": 20.168331,
+        "latitude": 41.153332,
         "oid": 1
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [41.1533, 20.1683]
+        "coordinates": [20.168331, 41.153332]
       }
     },
     {
@@ -36,12 +36,12 @@
         "total_deaths": "40400",
         "percentage_of_death": "0.58",
         "longitude": 133.7751,
-        "latitude": 25.2744,
+        "latitude": -25.2744,
         "oid": 2
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [133.7751, 25.2744]
+        "coordinates": [133.7751, -25.2744]
       }
     },
     {
@@ -54,13 +54,13 @@
         "civilian_deaths": "1500000",
         "total_deaths": "6900000",
         "percentage_of_death": "4.05",
-        "longitude": 133.7751,
-        "latitude": 25.2744,
+        "longitude": 14.550072,
+        "latitude": 47.516231,
         "oid": 3
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [133.7751, 25.2744]
+        "coordinates": [14.550072, 47.516231]
       }
     }
   ]
