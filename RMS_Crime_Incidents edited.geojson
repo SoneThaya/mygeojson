@@ -176,6 +176,215 @@
         "type": "Point",
         "coordinates": [104.195397, 35.86166]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011659",
+        "country": "Cuba",
+        "total_population": "4235000",
+        "military_deaths": "0",
+        "civilian_deaths": "100",
+        "total_deaths": "100",
+        "percentage_of_death": "0.00",
+        "longitude": -77.781167,
+        "latitude": 21.521757,
+        "oid": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.781167, 21.521757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011660",
+        "country": "Czechoslovakia",
+        "total_population": "14612000",
+        "military_deaths": "35000",
+        "civilian_deaths": "294000",
+        "total_deaths": "329000",
+        "percentage_of_death": "2.33",
+        "longitude": 15.472962,
+        "latitude": 49.817492,
+        "oid": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.472962, 49.817492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011661",
+        "country": "Denmark",
+        "total_population": "3795000",
+        "military_deaths": "0",
+        "civilian_deaths": "6000",
+        "total_deaths": "6000",
+        "percentage_of_death": "0.16",
+        "longitude": 9.501785,
+        "latitude": 56.26392,
+        "oid": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.501785, 56.26392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011662",
+        "country": "Dutch East Indies",
+        "total_population": "69435000",
+        "military_deaths": "11500",
+        "civilian_deaths": "300000",
+        "total_deaths": "311500",
+        "percentage_of_death": "4.30",
+        "longitude": 9.501785,
+        "latitude": 56.26392,
+        "oid": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.501785, 56.26392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011663",
+        "country": "Egypt",
+        "total_population": "16492000",
+        "military_deaths": "1100",
+        "civilian_deaths": "0",
+        "total_deaths": "1100",
+        "percentage_of_death": "0.00",
+        "longitude": 30.802498,
+        "latitude": 26.820553,
+        "oid": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.802498, 26.820553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011664",
+        "country": "Estonia",
+        "total_population": "1134000",
+        "military_deaths": "34000",
+        "civilian_deaths": "49000",
+        "total_deaths": "83000",
+        "percentage_of_death": "7.3",
+        "longitude": 25.013607,
+        "latitude": 58.595272,
+        "oid": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.013607, 58.595272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011665",
+        "country": "Ethiopia",
+        "total_population": "17700000",
+        "military_deaths": "15000",
+        "civilian_deaths": "85000",
+        "total_deaths": "100000",
+        "percentage_of_death": "0.56",
+        "longitude": 40.489673,
+        "latitude": 9.145,
+        "oid": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.489673, 9.145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011666",
+        "country": "Finland",
+        "total_population": "3700000",
+        "military_deaths": "947000",
+        "civilian_deaths": "2100",
+        "total_deaths": "96800",
+        "percentage_of_death": "2.62",
+        "longitude": 25.748151,
+        "latitude": 61.92411,
+        "oid": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.748151, 61.92411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011667",
+        "country": "France",
+        "total_population": "41680000",
+        "military_deaths": "210000",
+        "civilian_deaths": "390000",
+        "total_deaths": "600000",
+        "percentage_of_death": "1.44",
+        "longitude": 2.213749,
+        "latitude": 46.227638,
+        "oid": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.213749, 46.227638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011668",
+        "country": "French Indochina",
+        "total_population": "24664000",
+        "military_deaths": "0",
+        "civilian_deaths": "0",
+        "total_deaths": "1000000",
+        "percentage_of_death": "4.05",
+        "longitude": 102.495496,
+        "latitude": 19.85627,
+        "oid": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.495496, 19.85627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011669",
+        "country": "Germany",
+        "total_population": "69300000",
+        "military_deaths": "4440000",
+        "civilian_deaths": "1500000",
+        "total_deaths": "5940000",
+        "percentage_of_death": "4.10",
+        "longitude": 10.451526,
+        "latitude": 51.165691,
+        "oid": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.451526, 51.165691]
+      }
     }
   ]
 }
