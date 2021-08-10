@@ -119,6 +119,63 @@
         "type": "Point",
         "coordinates": [25.48583, 42.733883]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011656",
+        "country": "Burma",
+        "total_population": "16119000",
+        "military_deaths": "2600",
+        "civilian_deaths": "250000",
+        "total_deaths": "252600",
+        "percentage_of_death": "1.57",
+        "longitude": 95.956223,
+        "latitude": 21.913965,
+        "oid": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.956223, 21.913965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011657",
+        "country": "Canada",
+        "total_population": "11267000",
+        "military_deaths": "42000",
+        "civilian_deaths": "1600",
+        "total_deaths": "43600",
+        "percentage_of_death": "0.38",
+        "longitude": -106.346771,
+        "latitude": 56.130366,
+        "oid": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.346771, 56.130366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011658",
+        "country": "China",
+        "total_population": "517568000",
+        "military_deaths": "3000000",
+        "civilian_deaths": "7357000",
+        "total_deaths": "10357000",
+        "percentage_of_death": "3.86",
+        "longitude": 104.195397,
+        "latitude": 35.86166,
+        "oid": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.195397, 35.86166]
+      }
     }
   ]
 }
