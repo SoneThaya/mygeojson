@@ -385,6 +385,367 @@
         "type": "Point",
         "coordinates": [10.451526, 51.165691]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011670",
+        "country": "Greece",
+        "total_population": "7222000",
+        "military_deaths": "35100",
+        "civilian_deaths": "171800",
+        "total_deaths": "522800",
+        "percentage_of_death": "7.20",
+        "longitude": 21.824312,
+        "latitude": 39.074208,
+        "oid": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.824312, 39.074208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011671",
+        "country": "Guam",
+        "total_population": "22800",
+        "military_deaths": "1000",
+        "civilian_deaths": "0",
+        "total_deaths": "1000",
+        "percentage_of_death": "4.39",
+        "longitude": 144.793731,
+        "latitude": 13.444304,
+        "oid": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.793731, 13.444304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011672",
+        "country": "Hungary",
+        "total_population": "9129000",
+        "military_deaths": "200000",
+        "civilian_deaths": "264000",
+        "total_deaths": "464000",
+        "percentage_of_death": "5.08",
+        "longitude": 19.503304,
+        "latitude": 47.162494,
+        "oid": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.503304, 47.162494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011673",
+        "country": "Iceland",
+        "total_population": "118900",
+        "military_deaths": "0",
+        "civilian_deaths": "200",
+        "total_deaths": "200",
+        "percentage_of_death": "0.17",
+        "longitude": -19.020835,
+        "latitude": 64.963051,
+        "oid": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-19.020835, 64.963051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011674",
+        "country": "India",
+        "total_population": "377800000",
+        "military_deaths": "87000",
+        "civilian_deaths": "2100000",
+        "total_deaths": "2187000",
+        "percentage_of_death": "0.58",
+        "longitude": 78.96288,
+        "latitude": 20.593684,
+        "oid": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.96288, 20.593684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011675",
+        "country": "Iran",
+        "total_population": "14340000",
+        "military_deaths": "200",
+        "civilian_deaths": "0",
+        "total_deaths": "200",
+        "percentage_of_death": "0.00",
+        "longitude": 53.688046,
+        "latitude": 32.427908,
+        "oid": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.688046, 32.427908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011676",
+        "country": "Iraq",
+        "total_population": "3698000",
+        "military_deaths": "500",
+        "civilian_deaths": "200",
+        "total_deaths": "700",
+        "percentage_of_death": "0.01",
+        "longitude": 43.679291,
+        "latitude": 33.223191,
+        "oid": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.679291, 33.223191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011677",
+        "country": "Ireland",
+        "total_population": "2960000",
+        "military_deaths": "5000",
+        "civilian_deaths": "100",
+        "total_deaths": "5100",
+        "percentage_of_death": "0.00",
+        "longitude": -8.24389,
+        "latitude": 53.41291,
+        "oid": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.24389, 53.41291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011678",
+        "country": "Italy",
+        "total_population": "44394000",
+        "military_deaths": "319200",
+        "civilian_deaths": "153200",
+        "total_deaths": "492400",
+        "percentage_of_death": "1.11",
+        "longitude": 12.56738,
+        "latitude": 41.87194,
+        "oid": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.56738, 41.87194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011679",
+        "country": "Japan",
+        "total_population": "71380000",
+        "military_deaths": "2100000",
+        "civilian_deaths": "55000",
+        "total_deaths": "2500000",
+        "percentage_of_death": "3.50",
+        "longitude": 138.252924,
+        "latitude": 36.204824,
+        "oid": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.252924, 36.204824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011680",
+        "country": "Korea",
+        "total_population": "24326000",
+        "military_deaths": "210000",
+        "civilian_deaths": "483000",
+        "total_deaths": "693000",
+        "percentage_of_death": "1.99",
+        "longitude": 127.766922,
+        "latitude": 35.907757,
+        "oid": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.766922, 35.907757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011681",
+        "country": "Latvia",
+        "total_population": "1994500",
+        "military_deaths": "30000",
+        "civilian_deaths": "220000",
+        "total_deaths": "250000",
+        "percentage_of_death": "12.5",
+        "longitude": 24.603189,
+        "latitude": 56.879635,
+        "oid": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.603189, 56.879635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011682",
+        "country": "Poland",
+        "total_population": "34849000",
+        "military_deaths": "240000",
+        "civilian_deaths": "5620000",
+        "total_deaths": "5900000",
+        "percentage_of_death": "16.93",
+        "longitude": 19.145136,
+        "latitude": 51.919438,
+        "oid": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.145136, 51.919438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011683",
+        "country": "Soviet Union",
+        "total_population": "188793000",
+        "military_deaths": "8668000",
+        "civilian_deaths": "4500000",
+        "total_deaths": "8000000",
+        "percentage_of_death": "6.93",
+        "longitude": 105.318756,
+        "latitude": 61.52401,
+        "oid": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.318756, 61.52401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011684",
+        "country": "Spain",
+        "total_population": "25637000",
+        "military_deaths": "1000000",
+        "civilian_deaths": "400000",
+        "total_deaths": "1400000",
+        "percentage_of_death": "1.93",
+        "longitude": -3.74922,
+        "latitude": 40.463667,
+        "oid": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.74922, 40.463667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011685",
+        "country": "Sweden",
+        "total_population": "6341000",
+        "military_deaths": "100",
+        "civilian_deaths": "2000",
+        "total_deaths": "2100",
+        "percentage_of_death": "0.03",
+        "longitude": 18.643501,
+        "latitude": 60.128161,
+        "oid": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.643501, 60.128161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011686",
+        "country": "Turkey",
+        "total_population": "17370000",
+        "military_deaths": "200",
+        "civilian_deaths": "0",
+        "total_deaths": "200",
+        "percentage_of_death": "0.00",
+        "longitude": 35.243322,
+        "latitude": 38.963745,
+        "oid": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.243322, 38.963745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011687",
+        "country": "United Kingdom",
+        "total_population": "47760000",
+        "military_deaths": "383700",
+        "civilian_deaths": "67200",
+        "total_deaths": "450900",
+        "percentage_of_death": "0.94",
+        "longitude": -3.435973,
+        "latitude": 55.378051,
+        "oid": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.435973, 55.378051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3011688",
+        "country": "United States",
+        "total_population": "131028000",
+        "military_deaths": "407300",
+        "civilian_deaths": "12100",
+        "total_deaths": "419400",
+        "percentage_of_death": "0.32",
+        "longitude": -95.712891,
+        "latitude": 37.09024,
+        "oid": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.712891, 37.09024]
+      }
     }
   ]
 }
